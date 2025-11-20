@@ -80,6 +80,11 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahnoor-akhtar&theme=vue&bg_color=00000000&color=2E8B57&line=2E8B57&point=FFFFFF&hide_border=true)
 
 </div>
+<br>
+
+---
+
+![snake gif](https://github.com/Mahnoor-Akhtar/Mahnoor-Akhtar/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
@@ -109,5 +114,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 </div>
 
 <br>
-
-![snake gif](https://github.com/Mahnoor-Akhtar/Mahnoor-Akhtar/blob/output/github-contribution-grid-snake.svg)
