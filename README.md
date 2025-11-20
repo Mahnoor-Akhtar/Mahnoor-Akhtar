@@ -125,16 +125,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <br>
 
----
-
-<div align="center">
-
-### 💡 **Quote of the Day**
-*"The only way to do great work is to love what you do." - Steve Jobs*
-
-
-**Thank you for visiting my profile! Have a great day!** ✨
-
-</div>
-
 ![snake gif](https://github.com/Mahnoor-Akhtar/Mahnoor-Akhtar/blob/output/github-contribution-grid-snake.svg)
