@@ -3,12 +3,13 @@
 name: Generate Snake
 
 # Controls when the action will run. This action runs every 6 hours.
+
 on:
   schedule:
-    # every 6 hours
+      # every 6 hours
     - cron: "0 */6 * * *"
-  
-  # This command allows us to run the Action automatically from the Actions tab.
+
+# This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
 
 # The sequence of runs in this workflow:
@@ -20,41 +21,33 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v3
+
+    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      - uses: actions/checkout@v2
+
+    # Generates the snake  
+      - uses: Platane/snk@master
+        id: snake-gif
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          ref: output # Checkout the output branch
+          github_user_name: mishmanners
+          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Generates the snake - USING THE CORRECT V3 SYNTAX
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Mahnoor-Akhtar  # <-- REPLACE WITH YOUR USERNAME
-          outputs: |
-            dist/github-contribution-grid-snake.gif?palette=github-dark
-            dist/github-contribution-grid-snake.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     # show the status of the build. Makes it easier for debugging (if there's any issues).
+      - run: git status
 
-      # Show the status of the build. Makes it easier for debugging
-      - name: Check generated files
-        run: |
-          ls -la dist/
-          git status
-
-      # Push the changes to output branch
-      - name: Push changes to output branch
+      # Push the changes
+      - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
+          branch: master
           force: true
 
-      # Deploy to GitHub Pages (Optional - if you want to host the snake)
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
+          # the output branch we mentioned above
           target_branch: output
           build_dir: dist
         env:
