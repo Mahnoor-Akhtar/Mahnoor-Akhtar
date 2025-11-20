@@ -11,21 +11,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;Open+Source+Contributor;Problem+Solver;Based+in+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing effect" />
 </div>
 
-<br>
-
-<div align="center">
-  
-  ![MERN Developer](https://img.shields.io/badge/Full_Stack-MERN_Developer-2E8B57?style=for-the-badge&logo=react&logoColor=white)
-  ![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github)
-  ![Status](https://img.shields.io/badge/Status-Coding%20%F0%9F%92%BB-success?style=for-the-badge)
-  
-  <a href="https://komarev.com/ghpvc/?username=mahnoor-akhtar&label=Profile%20views&color=0e75b6&style=flat" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=mahnoor-akhtar&label=Profile%20views&color=2E8B57&style=flat" alt="mahnoor-akhtar" />
-  </a>
-  
-</div>
-
-<br>
 
 ---
 
