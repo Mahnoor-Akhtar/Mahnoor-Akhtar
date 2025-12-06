@@ -63,15 +63,6 @@
 
 ---
 
-## 📊 **GitHub Statistics**
-
-<div align="center">
-
-<!-- GitHub Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahnoor-akhtar&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahnoor-akhtar&layout=compact&theme=vue&hide_border=true&bg_color=00000000" alt="Top Languages"/>
-
-</div>
 
 ## 📈 **Contribution Graph**
 
