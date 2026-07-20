@@ -97,7 +97,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   <a href="https://twitter.com/yourusername">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://portfolio-yourname.vercel.app">
+  <a href="https://cosmic-skill-canvas.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
