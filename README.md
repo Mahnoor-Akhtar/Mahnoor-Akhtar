@@ -314,13 +314,7 @@ University of Gujrat
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Mahnoor-Akhtar&bg_color=00000000&color=2E8B57&line=2E8B57&point=55C98A&area=true&hide_border=true&custom_title=Contribution%20Activity"
-  width="100%"
-  alt="GitHub Contribution Activity"
-/>
 
-<br><br>
 
 <img
   src="https://raw.githubusercontent.com/Mahnoor-Akhtar/Mahnoor-Akhtar/output/github-contribution-grid-snake.svg"
