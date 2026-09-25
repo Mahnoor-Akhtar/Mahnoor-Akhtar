@@ -462,6 +462,8 @@ Cross-platform application development within a remote internship environment.
 
 ---
 
+---
+
 # CONNECT
 
 <div align="center">
@@ -509,6 +511,15 @@ Cross-platform application development within a remote internship environment.
 
 <br><br>
 
+<a href="tel:+923147238942">
+  <img
+    src="https://img.shields.io/badge/%2B92%20314%207238942-CALL%20ME-111111?style=for-the-badge&logo=phone&logoColor=white"
+    alt="Phone"
+  />
+</a>
+
+<br><br>
+
 <img
   src="https://komarev.com/ghpvc/?username=Mahnoor-Akhtar&label=PROFILE%20VIEWS&color=2E8B57&style=flat-square"
   alt="Profile Views"
@@ -520,9 +531,7 @@ Cross-platform application development within a remote internship environment.
 
 <div align="center">
 
-<br>
-
-### ENGINEER • BUILDER • ENTREPRENEUR
+### ENGINEER · BUILDER · ENTREPRENEUR
 
 <br>
 
@@ -531,5 +540,7 @@ Cross-platform application development within a remote internship environment.
   width="100%"
   alt="Footer"
 />
+
+</div>
 
 </div>
