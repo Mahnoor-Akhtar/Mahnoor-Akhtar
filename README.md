@@ -1,351 +1,538 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2E8B57&height=220&section=header&text=Mahnoor%20Akhtar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Flutter%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:071A13,45:12372A,100:2E8B57&height=240&section=header&text=MAHNOOR%20AKHTAR&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Startup%20Builder%20%7C%20Computer%20Science&descAlignY=59&descSize=18&descColor=E8F5E9"
+  width="100%"
+/>
 
-<br/>
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2E8B57&center=true&vCenter=true&width=800&height=60&lines=Building+Scalable+Digital+Products;Full-Stack+Web+%26+Mobile+Developer;Machine+Learning+%26+Data+Science+Enthusiast;Computational+Science+%26+Numerical+Computing;Turning+Complex+Problems+Into+Simple+Solutions" />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=2E8B57&center=true&vCenter=true&width=850&height=55&lines=Building+Scalable+Digital+Products;Engineering+Web+%26+Mobile+Applications;Building+Startups+%26+Digital+Businesses;AI+%2F+ML+%26+Computational+Science;From+Ideas+to+Production"
+  alt="Typing animation"
+/>
 
-<br/><br/>
+<br><br>
+
+<a href="https://cosmic-skill-canvas.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/🌐%20PORTFOLIO-EXPLORE%20MY%20WORK-2E8B57?style=for-the-badge"
+    alt="Portfolio"
+  />
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/mah-noor-83338b39a/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+&nbsp;
+
+<a href="mailto:mahnoorakhtar002@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+&nbsp;
 
 <a href="https://github.com/Mahnoor-Akhtar">
-<img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/mahnoor-akhtar">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:mahnoorakhtar002@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-2E8B57?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Mahnoor-Akhtar&label=PROFILE%20VIEWS&color=2E8B57&style=for-the-badge"/>
+<img
+  src="https://komarev.com/ghpvc/?username=Mahnoor-Akhtar&label=PROFILE%20VIEWS&color=2E8B57&style=for-the-badge"
+  alt="Profile views"
+/>
 
 </div>
 
 ---
 
-## 👋 About Me
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  I'm Mahnoor Akhtar — a Computer Science student and        │
-│  software developer passionate about building practical,    │
-│  scalable and intelligent applications.                      │
-│                                                              │
-│  I work across full-stack development, mobile applications,  │
-│  machine learning, statistics and computational science.     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-🎓 **BS Computer Science — University of Gujrat**  
-🏆 **CGPA: 3.95 / 4.00 · Batch Topper · Gold Medal Candidate**  
-🇵🇰 **Based in Pakistan**
-
-My interests span from **building production-ready applications** to exploring **machine learning, numerical computing, statistics and computational methods**.
-
----
-
-# ⚡ What I Do
+## Engineering Focus
 
 <table>
 <tr>
-<td width="50%">
 
-### 🌐 Full-Stack Development
+<td align="center" width="25%">
 
-Building modern web applications with:
+### 🌐
 
-- React / Next.js
-- Node.js / Express
-- REST APIs
-- Authentication
-- MongoDB / PostgreSQL / MySQL
-- Scalable backend architecture
+### Full-Stack
 
-</td>
+**Web Engineering**
 
-<td width="50%">
-
-### 📱 Mobile Development
-
-Creating cross-platform applications using:
-
-- Flutter
-- Dart
-- Firebase
-- REST APIs
-- Real-time systems
-- Mobile-first architecture
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 Machine Learning
-
-Working with:
-
-- Scikit-learn
-- TensorFlow / Keras
-- Neural Networks
-- CNN
-- Regression
-- Classification
-- Clustering
+React · Next.js  
+Node.js · Express  
+TypeScript · REST APIs
 
 </td>
 
-<td width="50%">
+<td align="center" width="25%">
 
-### 🧮 Computational Science
+### 📱
 
-Exploring:
+### Mobile
 
-- Numerical Methods
-- Scientific Computing
-- Statistical Modeling
-- Monte Carlo Simulation
-- Numerical PDEs
-- Mathematical Computing
+**Product Engineering**
+
+Flutter · Dart  
+Firebase  
+Real-Time Systems
 
 </td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+### AI / ML
+
+**Intelligent Systems**
+
+Python · TensorFlow  
+Scikit-learn  
+Statistics · CNN
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧮
+
+### Computing
+
+**Scientific & Numerical**
+
+Numerical Methods  
+Simulation  
+Computational Science
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# 🛠️ Technology Arsenal
+# 🏢 MaHris
 
 <div align="center">
 
-### Languages
+<img
+  src="https://img.shields.io/badge/MaHris-DIGITAL%20SOLUTIONS%20STUDIO-2E8B57?style=for-the-badge"
+  alt="MaHris"
+/>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,dart&perline=6"/>
+<br><br>
 
-<br/><br/>
+### Building Digital Products. Creating Digital Experiences.
 
-### Frontend
+</div>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&perline=6"/>
+**MaHris** is a digital solutions company I run, focused on helping businesses build, launch, and grow through modern technology and creative digital solutions.
 
-<br/><br/>
+<table>
+<tr>
 
-### Backend & Databases
+<td width="33%" align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql&perline=6"/>
+### 💻
 
-<br/><br/>
+**Digital Products**
 
-### Mobile & Cloud
+Websites  
+Web Applications  
+Mobile Applications
 
-<img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,docker,vercel,nginx&perline=6"/>
+</td>
 
-<br/><br/>
+<td width="33%" align="center">
 
-### AI / Data
+### 🤖
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow&perline=6"/>
+**Technology**
 
-<br/><br/>
+AI Solutions  
+Automation  
+Custom Software
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+</td>
+
+<td width="33%" align="center">
+
+### 🎬
+
+**Digital Growth**
+
+UGC Advertising  
+Creative Content  
+Business Solutions
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<a href="https://mahris-company.vercel.app/#about">
+  <img
+    src="https://img.shields.io/badge/🌐%20MAHRIS%20WEBSITE-EXPLORE%20COMPANY-2E8B57?style=for-the-badge"
+    alt="MaHris Website"
+  />
+</a>
+
+&nbsp;
+
+<a href="https://www.instagram.com/mahris__official/">
+  <img
+    src="https://img.shields.io/badge/📱%20MAHRIS%20INSTAGRAM-UGC%20ADS-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="MaHris Instagram"
+  />
+</a>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Startups
 
 <div align="center">
 
-<a href="https://qanomy.com">
-
-<img src="https://img.shields.io/badge/⚖️%20QANOMY-Legal%20Case%20Management-2E8B57?style=for-the-badge"/>
-
-</a>
+## ⚖️ QANOMY
 
 ### Legal Case Management Platform
 
-A platform designed for legal case management and digital workflows.
+A digital platform focused on modernizing legal case management and workflows for legal professionals in Pakistan.
 
-`React` `Node.js` `TypeScript` `Express` `PostgreSQL` `Prisma`
-
-<br/>
+<br>
 
 <a href="https://qanomy.com">
-<img src="https://img.shields.io/badge/🌐%20Visit%20Qanomy-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/🌐%20VISIT%20QANOMY-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Visit Qanomy"
+  />
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 
 </div>
 
-<br/>
+<br>
+
+<div align="center">
+
+## 🛰️ ORION
+
+### Personnel Tracking & Operations Platform
+
+A mobile and backend platform developed around personnel tracking and operational management.
+
+<br>
+
+<img src="https://img.shields.io/badge/PLATFORM-MOBILE-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-DEPLOYED-2E8B57?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Currently Building
+
+`Mind Bridge` &nbsp;·&nbsp; `AI Virtual Try-On` &nbsp;·&nbsp; `Restaurant Technology`
+
+</div>
+
+---
+
+# 🧠 Technical Expertise
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,dart&perline=6" />
+
+<br><br>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&perline=6" />
+
+<br><br>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql&perline=6" />
+
+<br><br>
+
+### Mobile, Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,docker,git,github,vercel,nginx&perline=8" />
+
+<br><br>
+
+### AI / Data
+
+<img src="https://skillicons.dev/icons?i=tensorflow&perline=4" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+
+</div>
+
+---
+
+# 🔬 Computational Science
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=2E8B57&center=true&vCenter=true&width=720&height=45&lines=Numerical+Methods;Statistical+Modeling;Machine+Learning;Scientific+Computing;Monte+Carlo+Simulation"
+  alt="Computational science animation"
+/>
+
+</div>
+
+<br>
 
 <table>
 <tr>
-
-<td width="50%" valign="top">
-
-### 📍 Orion
-
-**Personnel Tracking & Operations Management**
-
-Flutter-based application with backend services and operational management functionality.
-
-**Stack**
-
-`Flutter` · `Node.js` · `TypeScript` · `Prisma` · `MySQL`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚗 Sawari
-
-**Ride-Hailing Mobile Application**
-
-Cross-platform mobile application focused on ride-hailing and real-time functionality.
-
-**Stack**
-
-`Flutter` · `Node.js` · `Firebase`
-
-</td>
-
+<th>Area</th>
+<th>Focus</th>
 </tr>
 
 <tr>
-
-<td width="50%" valign="top">
-
-### 📊 QR Attendance
-
-**QR-Based Attendance System**
-
-Full-stack attendance management system with authentication and database integration.
-
-**Stack**
-
-`MERN` · `JWT` · `MongoDB`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 Facial Expression Recognition
-
-Deep-learning based facial expression classification system.
-
-**Stack**
-
-`Python` · `OpenCV` · `CNN` · `TensorFlow` · `Keras`
-
-</td>
-
+<td><b>Numerical Computing</b></td>
+<td>Finite Difference Methods · PDEs · Stability · Convergence</td>
 </tr>
 
 <tr>
+<td><b>Statistics</b></td>
+<td>Hypothesis Testing · Regression · Statistical Inference</td>
+</tr>
 
-<td width="50%" valign="top">
+<tr>
+<td><b>Machine Learning</b></td>
+<td>Classification · Regression · Clustering · Neural Networks</td>
+</tr>
 
-### 🎥 Video Calling App
+<tr>
+<td><b>Deep Learning</b></td>
+<td>CNN · TensorFlow · Keras</td>
+</tr>
 
-Real-time communication application.
-
-**Stack**
-
-`ZegoCloud` · `WebRTC` · `Socket.io`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧊 Khadi 3D
-
-Interactive 3D web experience.
-
-**Stack**
-
-`Three.js` · `WebGL` · `JavaScript`
-
-</td>
-
+<tr>
+<td><b>Simulation</b></td>
+<td>Monte Carlo · Random Walks · Quantitative Modeling</td>
 </tr>
 
 </table>
 
 ---
 
-# 🔬 Computational & Research Work
+# 🎓 Academic Profile
 
 <div align="center">
 
-### 🔥 Numerical PDE Solver
+<img
+  src="https://img.shields.io/badge/CGPA-3.95%2F4.00-2E8B57?style=for-the-badge"
+  alt="CGPA"
+/>
 
-**1D / 2D Heat Equation**
+<img
+  src="https://img.shields.io/badge/STATUS-BATCH%20TOPPER-111111?style=for-the-badge"
+  alt="Batch Topper"
+/>
 
-</div>
+<img
+  src="https://img.shields.io/badge/GOLD%20MEDAL-CANDIDATE-2E8B57?style=for-the-badge"
+  alt="Gold Medal Candidate"
+/>
 
-Implemented numerical methods for solving heat equations and analyzed:
+<br><br>
 
-`Stability` · `Convergence` · `Numerical Error` · `Grid Size` · `Time Step`
+### BS Computer Science
 
----
+**University of Gujrat**
 
-<div align="center">
-
-### 🎲 Monte Carlo Simulation
-
-**Option Pricing & Random Walk Estimation**
-
-</div>
-
-Built stochastic simulations and compared Monte Carlo estimates against analytical Black-Scholes solutions.
-
----
-
-<div align="center">
-
-### 📈 Statistical Analysis
-
-**Hypothesis Testing & Regression**
-
-</div>
-
-Worked with real-world datasets using:
-
-`Python` · `Pandas` · `SciPy` · `statsmodels`
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mahnoor-Akhtar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=2E8B57&icon_color=2E8B57&text_color=777777&bg_color=00000000" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahnoor-Akhtar&layout=compact&langs_count=8&hide_border=true&title_color=2E8B57&text_color=777777&bg_color=00000000" height="180"/>
+`2023 — 2027 · Expected`
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 💼 Professional Experience
+
+<table>
+
+<tr>
+<td width="35%">
+
+### CodeAlpha
+
+**Full-Stack Development Intern**
+
+`Aug 2026`
+
+</td>
+
+<td>
+
+Remote internship applying MERN-stack skills to practical development tasks.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### SYNTECXHUB
+
+**Android App Development Intern**
+
+`Jul — Aug 2026`
+
+</td>
+
+<td>
+
+Virtual internship focused on Android application development and industry project exposure.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Hex Softwares Pvt. Ltd.
+
+**App Development Intern**
+
+`Aug 2026`
+
+</td>
+
+<td>
+
+Remote internship contributing to cross-platform application development.
+
+</td>
+</tr>
+
+</table>
+
+---
+
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahnoor-Akhtar&bg_color=00000000&color=2E8B57&line=2E8B57&point=2E8B57&area=true&hide_border=true&custom_title=Mahnoor's%20Contribution%20Graph"/>
+<img
+  src="https://img.shields.io/badge/🏆%20UNIVERSITY%20OF%20GUJRAT-BATCH%20TOPPER-2E8B57?style=for-the-badge"
+  alt="University Batch Topper"
+/>
+
+<img
+  src="https://img.shields.io/badge/🥇%20GOLD%20MEDAL-CANDIDATE-111111?style=for-the-badge"
+  alt="Gold Medal Candidate"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/🏅%20GUJRANWALA%20BOARD-MATRIC%202ND%20POSITION-2E8B57?style=for-the-badge"
+  alt="Gujranwala Board"
+/>
+
+<img
+  src="https://img.shields.io/badge/🎓%20ICS-COLLEGE%20TOPPER-111111?style=for-the-badge"
+  alt="College Topper"
+/>
+
+</div>
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+<img
+  src="https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white"
+  alt="Google Data Analytics"
+/>
+
+<img
+  src="https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"
+  alt="Google AI Essentials"
+/>
+
+<img
+  src="https://img.shields.io/badge/Google-Prompting%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"
+  alt="Google Prompting Essentials"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/KodeKloud-Docker%20Basics-111111?style=for-the-badge&logo=docker&logoColor=2496ED"
+  alt="Docker Basics"
+/>
+
+<img
+  src="https://img.shields.io/badge/Google-Git%20%26%20GitHub-4285F4?style=for-the-badge&logo=google&logoColor=white"
+  alt="Git and GitHub"
+/>
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Mahnoor-Akhtar&bg_color=00000000&color=2E8B57&line=2E8B57&point=2E8B57&area=true&hide_border=true&custom_title=Contribution%20Activity"
+  width="100%"
+  alt="GitHub Contribution Activity"
+/>
 
 </div>
 
@@ -355,136 +542,84 @@ Worked with real-world datasets using:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mahnoor-Akhtar/Mahnoor-Akhtar/output/github-contribution-grid-snake.svg" />
+<img
+  src="https://raw.githubusercontent.com/Mahnoor-Akhtar/Mahnoor-Akhtar/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
 ---
 
-# 🏆 Achievements
+# 🌐 Find Me Online
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mahnoor-Akhtar&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6"/>
-
-</div>
-
----
-
-# 🎓 Certifications
-
-<table>
-<tr>
-<td>📊</td>
-<td><b>Google Data Analytics Professional Certificate</b></td>
-</tr>
-
-<tr>
-<td>🤖</td>
-<td><b>Google AI Essentials Specialization</b></td>
-</tr>
-
-<tr>
-<td>✨</td>
-<td><b>Google Prompting Essentials Specialization</b></td>
-</tr>
-
-<tr>
-<td>🐳</td>
-<td><b>Docker Basics for DevOps — KodeKloud</b></td>
-</tr>
-
-<tr>
-<td>🔧</td>
-<td><b>Introduction to Git & GitHub — Google / Coursera</b></td>
-</tr>
-
-<tr>
-<td>🎨</td>
-<td><b>Build Dynamic User Interfaces — Google / Coursera</b></td>
-</tr>
-</table>
-
----
-
-# 💼 Experience
-
-### Full-Stack Development Intern
-**CodeAlpha · Aug 2026**
-
-Applied MERN-stack skills to practical development tasks in a remote internship environment.
-
-### Android App Development Intern
-**SYNTECXHUB · Jul – Aug 2026**
-
-Worked on Android application development through a virtual internship.
-
-### App Development Intern
-**Hex Softwares Pvt. Ltd. · Aug 2026**
-
-Contributed to cross-platform application development projects.
-
----
-
-# 🎯 Current Focus
-
-<div align="center">
-
-```text
-╔════════════════════════════════════════════════════╗
-║                                                    ║
-║       🔬 Computational Science                     ║
-║       🤖 Machine Learning                          ║
-║       📊 Statistical Computing                     ║
-║       🌐 Full-Stack Engineering                    ║
-║       📱 Flutter Development                       ║
-║       ☁️  DevOps & Cloud                           ║
-║       🧮 Numerical Computing                       ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-# 🌱 Currently Exploring
-
-`Deep Learning` · `Advanced ML` · `Scientific Computing`
-
-`Numerical Methods` · `Cloud Architecture` · `Scalable Systems`
-
-`AI-Powered Applications` · `Statistical Modeling`
-
----
-
-# 🤝 Let's Build Something
-
-<div align="center">
-
-### Have an idea, project, research opportunity, or collaboration?
-
-<br/>
-
-<a href="mailto:mahnoorakhtar002@gmail.com">
-<img src="https://img.shields.io/badge/📩%20Email%20Me-2E8B57?style=for-the-badge"/>
+<a href="https://cosmic-skill-canvas.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/🌐%20PORTFOLIO-EXPLORE-2E8B57?style=for-the-badge"
+    alt="Portfolio"
+  />
 </a>
 
 &nbsp;
 
-<a href="https://linkedin.com/in/mahnoor-akhtar">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/mah-noor-83338b39a/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 &nbsp;
 
 <a href="https://github.com/Mahnoor-Akhtar">
-<img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
-<br/><br/>
+</div>
 
-**Let's turn ideas into working software.**
+---
+
+# 🤝 Work With Me
+
+<div align="center">
+
+### Software · Startups · AI · Digital Products · UGC Advertising
+
+<br>
+
+<a href="mailto:mahnoorakhtar002@gmail.com">
+  <img
+    src="https://img.shields.io/badge/📩%20EMAIL%20ME-2E8B57?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email Mahnoor"
+  />
+</a>
+
+&nbsp;
+
+<a href="https://mahris-company.vercel.app/#about">
+  <img
+    src="https://img.shields.io/badge/🏢%20MAHRIS-EXPLORE%20COMPANY-111111?style=for-the-badge"
+    alt="MaHris"
+  />
+</a>
+
+&nbsp;
+
+<a href="https://www.instagram.com/mahris__official/">
+  <img
+    src="https://img.shields.io/badge/📱%20MAHRIS-UGC%20ADS-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="MaHris Instagram"
+  />
+</a>
+
+<br><br>
+
+**Let's build something meaningful.**
 
 </div>
 
@@ -492,6 +627,16 @@ Contributed to cross-platform application development projects.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,50:203A43,100:0F2027&height=120&section=footer"/>
+<img
+  src="https://komarev.com/ghpvc/?username=Mahnoor-Akhtar&label=PROFILE%20VIEWS&color=2E8B57&style=flat-square"
+  alt="Profile views"
+/>
+
+<br><br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,50:12372A,100:071A13&height=140&section=footer"
+  width="100%"
+/>
 
 </div>
