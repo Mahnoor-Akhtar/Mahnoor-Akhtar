@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:050807,45:0B2118,100:2E8B57&height=250&section=header&text=MAHNOOR%20AKHTAR&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20STARTUP%20BUILDER&descAlignY=59&descSize=17&descColor=A8DDBE"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:050807,50:12372A,100:2E8B57&height=230&section=header&text=MAHNOOR%20AKHTAR&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20STARTUP%20BUILDER&descAlignY=58&descSize=17&descColor=A8DDBE"
   width="100%"
   alt="Mahnoor Akhtar"
 />
@@ -9,15 +9,15 @@
 <br>
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=55C98A&center=true&vCenter=true&width=820&height=45&lines=Engineering+Digital+Products;Building+Scalable+Software;Web+%7C+Mobile+%7C+AI;Startup+%26+Product+Engineering;Computational+Science+%26+Machine+Learning"
-  alt="Professional typing animation"
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=55C98A&center=true&vCenter=true&width=760&height=42&lines=Software+Engineering;Startup+Building;Web+%26+Mobile;AI+%2F+ML;Computational+Science"
+  alt="Typing animation"
 />
 
 <br><br>
 
 <a href="https://cosmic-skill-canvas.vercel.app/">
   <img
-    src="https://img.shields.io/badge/PORTFOLIO-EXPLORE%20MY%20WORK-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white"
+    src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white"
     alt="Portfolio"
   />
 </a>
@@ -31,7 +31,7 @@
 
 <a href="https://mahris-company.vercel.app/#about">
   <img
-    src="https://img.shields.io/badge/MAHRIS-EXPLORE%20COMPANY-111111?style=for-the-badge&logo=googlechrome&logoColor=white"
+    src="https://img.shields.io/badge/MAHRIS-EXPLORE-111111?style=for-the-badge&logo=googlechrome&logoColor=white"
     alt="MaHris"
   />
 </a>
@@ -47,100 +47,41 @@
 
 <img
   src="https://komarev.com/ghpvc/?username=Mahnoor-Akhtar&label=PROFILE%20VIEWS&color=2E8B57&style=flat-square"
-  alt="Profile views"
+  alt="Profile Views"
 />
 
 </div>
 
 ---
 
-## ENGINEERING
+## FOCUS
 
-I work across **software engineering, digital product development, artificial intelligence, and computational science**.
+<div align="center">
 
-My technical focus is built around four areas:
+`FULL-STACK` · `FLUTTER` · `AI / ML` · `STATISTICS` · `COMPUTATIONAL SCIENCE`
 
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-### SOFTWARE
-
-**Full-Stack Engineering**
-
-React  
-Next.js  
-Node.js  
-TypeScript  
-REST APIs
-
-</td>
-
-<td width="25%" align="center">
-
-### MOBILE
-
-**Product Engineering**
-
-Flutter  
-Dart  
-Firebase  
-Real-Time Systems
-
-</td>
-
-<td width="25%" align="center">
-
-### INTELLIGENCE
-
-**AI & Machine Learning**
-
-Python  
-TensorFlow  
-Keras  
-Scikit-learn
-
-</td>
-
-<td width="25%" align="center">
-
-### COMPUTING
-
-**Scientific Computing**
-
-Statistics  
-Numerical Methods  
-Simulation  
-Mathematical Modeling
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-# STARTUPS & PRODUCTS
+# STARTUPS
+
+<div align="center">
 
 ## QANOMY
 
-### Legal Case Management Platform
-
-Qanomy is a digital platform focused on modernizing legal case management and workflows for legal professionals in Pakistan.
-
-**Core Stack**
-
-`React` `Node.js` `TypeScript` `Express` `PostgreSQL` `Prisma`
-
-<br>
+**Legal Case Management Platform**
 
 <a href="https://qanomy.com">
   <img
-    src="https://img.shields.io/badge/VISIT%20QANOMY-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white"
-    alt="Visit Qanomy"
+    src="https://img.shields.io/badge/OPEN%20QANOMY-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Qanomy"
   />
 </a>
+
+<br><br>
+
+`React` `Node.js` `TypeScript` `PostgreSQL` `Prisma`
 
 <br><br>
 
@@ -148,19 +89,17 @@ Qanomy is a digital platform focused on modernizing legal case management and wo
 
 ## ORION
 
-### Personnel Tracking & Operations Platform
-
-Orion is a mobile and backend platform built around personnel tracking and operational management.
-
-**Core Stack**
-
-`Flutter` `Node.js` `TypeScript` `Prisma` `MySQL`
+**Personnel Tracking & Operations Platform**
 
 <br>
 
+`Flutter` `Node.js` `TypeScript` `Prisma` `MySQL`
+
+<br><br>
+
 <img
-  src="https://img.shields.io/badge/MOBILE%20PLATFORM-111111?style=for-the-badge"
-  alt="Mobile Platform"
+  src="https://img.shields.io/badge/MOBILE-111111?style=for-the-badge"
+  alt="Mobile"
 />
 
 <img
@@ -168,40 +107,35 @@ Orion is a mobile and backend platform built around personnel tracking and opera
   alt="Deployed"
 />
 
-<br><br>
+</div>
 
 ---
 
-## MAHRIS
+# MAHRIS
 
-### Digital Solutions Company
+<div align="center">
 
-**MaHris** is a digital solutions company I run, focused on helping businesses build and grow through technology, digital products, creative experiences, and UGC advertising.
+### DIGITAL SOLUTIONS
 
-**Services**
+`Web` · `Mobile` · `AI` · `Automation` · `UGC`
 
-`Web Development`  
-`Mobile Applications`  
-`AI Solutions`  
-`Automation`  
-`Digital Products`  
-`UGC Advertising`
-
-<br>
+<br><br>
 
 <a href="https://mahris-company.vercel.app/#about">
   <img
-    src="https://img.shields.io/badge/MAHRIS%20WEBSITE-EXPLORE-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white"
+    src="https://img.shields.io/badge/WEBSITE-EXPLORE-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white"
     alt="MaHris Website"
   />
 </a>
 
 <a href="https://www.instagram.com/mahris__official/">
   <img
-    src="https://img.shields.io/badge/MAHRIS%20UGC-@mahris__official-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    alt="MaHris Instagram"
+    src="https://img.shields.io/badge/UGC-@mahris__official-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="MaHris UGC"
   />
 </a>
+
+</div>
 
 ---
 
@@ -209,36 +143,43 @@ Orion is a mobile and backend platform built around personnel tracking and opera
 
 <div align="center">
 
-### PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,dart&perline=6" />
-
-<br><br>
-
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&perline=6" />
-
-<br><br>
-
-### BACKEND & DATABASE
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,prisma&perline=6" />
-
-<br><br>
-
-### MOBILE · CLOUD · DEVOPS
-
-<img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,docker,git,github,vercel,nginx&perline=8" />
-
-<br><br>
-
-### AI & DATA
+### LANGUAGES
 
 <img
-  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-  alt="Python"
+  src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,dart&perline=6"
+  alt="Programming Languages"
 />
+
+<br><br>
+
+### WEB
+
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind&perline=7"
+  alt="Web Technologies"
+/>
+
+<br><br>
+
+### DATABASE · CLOUD · DEVOPS
+
+<img
+  src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma,firebase,supabase,docker,nginx&perline=8"
+  alt="Backend and Infrastructure"
+/>
+
+<br><br>
+
+### MOBILE
+
+<img
+  src="https://skillicons.dev/icons?i=flutter,androidstudio&perline=4"
+  alt="Mobile Technologies"
+/>
+
+<br><br>
+
+### AI · DATA
 
 <img
   src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
@@ -276,55 +217,24 @@ Orion is a mobile and backend platform built around personnel tracking and opera
 
 # COMPUTATIONAL SCIENCE
 
-My academic and technical interests extend into **statistics, machine learning, numerical methods, simulation, and scientific computing**.
-
-<table>
-<tr>
-<th>DOMAIN</th>
-<th>AREAS</th>
-</tr>
-
-<tr>
-<td><b>Numerical Computing</b></td>
-<td>Finite Difference Methods · PDEs · Stability · Convergence</td>
-</tr>
-
-<tr>
-<td><b>Statistics</b></td>
-<td>Hypothesis Testing · Regression · Statistical Inference</td>
-</tr>
-
-<tr>
-<td><b>Machine Learning</b></td>
-<td>Classification · Regression · Clustering · Neural Networks</td>
-</tr>
-
-<tr>
-<td><b>Deep Learning</b></td>
-<td>CNN · TensorFlow · Keras</td>
-</tr>
-
-<tr>
-<td><b>Simulation</b></td>
-<td>Monte Carlo · Random Walks · Quantitative Modeling</td>
-</tr>
-
-</table>
-
-<br>
-
 <div align="center">
 
+`NUMERICAL METHODS` · `STATISTICS` · `MACHINE LEARNING`
+
+`DEEP LEARNING` · `SIMULATION` · `SCIENTIFIC COMPUTING`
+
+<br><br>
+
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=2E8B57&center=true&vCenter=true&width=700&height=40&lines=Numerical+Methods;Statistical+Modeling;Machine+Learning;Scientific+Computing;Computational+Simulation"
-  alt="Computational science animation"
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=2E8B57&center=true&vCenter=true&width=650&height=40&lines=Numerical+Methods;Statistical+Modeling;Machine+Learning;Scientific+Computing;Computational+Simulation"
+  alt="Computational Science"
 />
 
 </div>
 
 ---
 
-# ACADEMIC PROFILE
+# ACADEMIC
 
 <div align="center">
 
@@ -345,70 +255,11 @@ My academic and technical interests extend into **statistics, machine learning, 
 
 <br><br>
 
-### BS Computer Science
+**BS Computer Science**
 
-**University of Gujrat**
+University of Gujrat
 
-`2023 — 2027 · Expected`
-
-</div>
-
----
-
-# PROFESSIONAL EXPERIENCE
-
-### CodeAlpha
-
-**Full-Stack Development Intern**  
-`August 2026`
-
-MERN-stack development within a remote internship environment.
-
----
-
-### SYNTECXHUB
-
-**Android App Development Intern**  
-`July — August 2026`
-
-Android application development through a virtual internship.
-
----
-
-### Hex Softwares Pvt. Ltd.
-
-**App Development Intern**  
-`August 2026`
-
-Cross-platform application development within a remote internship environment.
-
----
-
-# ACHIEVEMENTS
-
-<div align="center">
-
-<img
-  src="https://img.shields.io/badge/UNIVERSITY%20OF%20GUJRAT-BATCH%20TOPPER-2E8B57?style=for-the-badge"
-  alt="Batch Topper"
-/>
-
-<img
-  src="https://img.shields.io/badge/GOLD%20MEDAL-CANDIDATE-111111?style=for-the-badge"
-  alt="Gold Medal Candidate"
-/>
-
-<br><br>
-
-<img
-  src="https://img.shields.io/badge/GUJRANWALA%20BOARD-MATRIC%202ND%20POSITION-2E8B57?style=for-the-badge"
-  alt="Gujranwala Board"
-/>
-
-<img
-  src="https://img.shields.io/badge/ICS-COLLEGE%20TOPPER-111111?style=for-the-badge"
-  alt="College Topper"
-/>
+`2023 — 2027`
 
 </div>
 
@@ -418,40 +269,58 @@ Cross-platform application development within a remote internship environment.
 
 <div align="center">
 
-<img
-  src="https://img.shields.io/badge/GOOGLE-Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white"
-  alt="Google Data Analytics"
-/>
+<a href="https://www.coursera.org/professional-certificates/google-data-analytics">
+  <img
+    src="https://img.shields.io/badge/GOOGLE-Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white"
+    alt="Google Data Analytics"
+  />
+</a>
 
-<img
-  src="https://img.shields.io/badge/GOOGLE-AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"
-  alt="Google AI Essentials"
-/>
+<a href="https://www.coursera.org/specializations/ai-essentials-google">
+  <img
+    src="https://img.shields.io/badge/GOOGLE-AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"
+    alt="Google AI Essentials"
+  />
+</a>
 
-<img
-  src="https://img.shields.io/badge/GOOGLE-Prompting%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"
-  alt="Google Prompting Essentials"
-/>
+<a href="https://www.coursera.org/specializations/prompting-essentials-google">
+  <img
+    src="https://img.shields.io/badge/GOOGLE-Prompting%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"
+    alt="Google Prompting Essentials"
+  />
+</a>
 
 <br><br>
 
-<img
-  src="https://img.shields.io/badge/KODEKLOUD-Docker%20Basics-111111?style=for-the-badge&logo=docker&logoColor=2496ED"
-  alt="Docker Basics"
-/>
+<a href="https://www.coursera.org/learn/introduction-git-github">
+  <img
+    src="https://img.shields.io/badge/GOOGLE-Git%20%26%20GitHub-4285F4?style=for-the-badge&logo=google&logoColor=white"
+    alt="Introduction to Git and GitHub"
+  />
+</a>
 
-<img
-  src="https://img.shields.io/badge/GOOGLE-Git%20%26%20GitHub-4285F4?style=for-the-badge&logo=google&logoColor=white"
-  alt="Git and GitHub"
-/>
+<a href="https://www.coursera.org/learn/docker-basics-for-devops">
+  <img
+    src="https://img.shields.io/badge/KODEKLOUD-Docker%20Basics-111111?style=for-the-badge&logo=docker&logoColor=2496ED"
+    alt="Docker Basics for DevOps"
+  />
+</a>
 
 </div>
 
+---
 
-
-# CONTRIBUTION JOURNEY
+# GITHUB
 
 <div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Mahnoor-Akhtar&bg_color=00000000&color=2E8B57&line=2E8B57&point=55C98A&area=true&hide_border=true&custom_title=Contribution%20Activity"
+  width="100%"
+  alt="GitHub Contribution Activity"
+/>
+
+<br><br>
 
 <img
   src="https://raw.githubusercontent.com/Mahnoor-Akhtar/Mahnoor-Akhtar/output/github-contribution-grid-snake.svg"
@@ -459,8 +328,6 @@ Cross-platform application development within a remote internship environment.
 />
 
 </div>
-
----
 
 ---
 
@@ -540,7 +407,5 @@ Cross-platform application development within a remote internship environment.
   width="100%"
   alt="Footer"
 />
-
-</div>
 
 </div>
